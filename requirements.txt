@@ -1,0 +1,14 @@
+notebook
+numpy
+pandas
+matplotlib
+geopandas
+folium
+mapclassify
+xarray
+rioxarray
+contextily
+xyzservices
+matplotlib-map-utils
+osmnx
+openpyxl
