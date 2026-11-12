@@ -1,14 +1,7 @@
 notebook
-numpy
-pandas
 matplotlib
 geopandas
+rioxarray
+pystac_client
 folium
 mapclassify
-xarray
-rioxarray
-contextily
-xyzservices
-matplotlib-map-utils
-osmnx
-openpyxl
